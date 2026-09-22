@@ -1,0 +1,10 @@
+{
+  "name": "Textile Engineering Toolkit V1",
+  "short_name": "Textile Toolkit",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#0f172a",
+  "description": "Cotton Count and GSM calculators for textile engineering.",
+  "icons": []
+}
